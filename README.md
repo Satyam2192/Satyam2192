@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Satyam Kumar
 
-### Passionate Frontend Developer from India
+### Passionate Software Developer from India
 
 
 ## 🔗 Connect with Me
