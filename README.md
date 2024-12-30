@@ -21,10 +21,9 @@ Indian Institute of Information Technology, Jabalpur
 
 ## 💼 Experience
 
-## Experience
-![Smollan](https://github.com/user-attachments/assets/4b0afccd-f231-4235-91cf-d1efae6c06c1)
-![Wodasoft](https://github.com/user-attachments/assets/573ceb89-9365-4cb0-a3bc-eb1183e288e6)
-![Stolid](https://github.com/user-attachments/assets/4c2c903a-5b21-46dd-a9b8-9707c98c7218)
+<img src="https://github.com/user-attachments/assets/4b0afccd-f231-4235-91cf-d1efae6c06c1" alt="Smollan" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/573ceb89-9365-4cb0-a3bc-eb1183e288e6" alt="Wodasoft" width="100" height="100">
+<img src="https://github.com/user-attachments/assets/4c2c903a-5b21-46dd-a9b8-9707c98c7218" alt="Stolid" width="100" height="100">
 
 ---
 
@@ -76,13 +75,6 @@ Indian Institute of Information Technology, Jabalpur
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam2192&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2192&layout=compact&theme=radical)
-
----
-
-## 🏆 Achievements
-- **LeetCode:** 1900+ rating as a Knight, ranking in the top 3.96% with a highest position of 509.
-- **Google Codejam 2023:** Secured a global rank of 304 in Round C and 4122 in Round A.
-- **AWS Certification:** Acquired the AWS Cloud Technical Essentials certification endorsed by Amazon Web Services.
 
 ---
 
