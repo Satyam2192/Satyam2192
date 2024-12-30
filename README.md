@@ -1,92 +1,89 @@
-# Hi there, I'm Satyam Kumar 👋
+# Hi 👋, I'm Satyam Kumar
+
+### A passionate frontend developer from India
+
+## Work
+🔭 I’m currently working on [Sk-Homes](https://sk-p.netlify.app)
+
+👯 I’m looking to collaborate on [Hackers Path](https://github.com/Satyam2192/Hackers-Path)
+
+🤝 I’m looking for help with [Sk-Homes](https://sk-p.netlify.app)
+
+🌱 I’m currently learning SvelteKit, TypeScript, Tailwind CSS
+
+💬 Ask me about React, Vue, and GSAP
+
+📫 How to reach me: satyam21092@gmail.com
+
+👨‍💻 All of my projects are available at [My Portfolio](https://sk-p.netlify.app)
+
+📝 I regularly write articles on [My Blog](https://yourbloglink.com)
+
+📄 Know about my experiences [My Resume](https://yourresumelink.com)
+
+⚡ Fun fact: I think I am funny
+
+## Skills
+
+### Programming Languages
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### DevOps
+![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### Others
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Social
+
+### GitHub
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyam2192)
+
+### LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-iiitj)
+
+### Twitter
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Satyam2192)
+
+### LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Satyam2192)
+
+## Add-ons
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Satyam2192&color=blue)
 
-## About Me
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam2192&show_icons=true&theme=radical)
 
-I'm a passionate software developer with a keen interest in developing scalable and efficient applications. I enjoy working on challenging problems and continuously learning new technologies.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2192&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m currently learning [Technology or Skill You're Learning]
-- 👯 I’m looking to collaborate on [Project or Open Source Initiative]
-- 🤔 I’m looking for help with [Topic or Project]
-- 💬 Ask me about [Your Expertise or Interests]
-- 📫 How to reach me: satyam21092@gmail.com
-- 😄 Pronouns: They/Them
-- ⚡ Fun fact: [Interesting Fact About You]
+## Support
 
-## Education
+If you like my work, you can buy me a coffee!
 
-**Indian Institute of Information Technology**
-- Bachelor of Technology
-
-## Experience
-
-### Smollan Group (certificate)
-**Frontend Developer**  
-_July 2021 - Present_  
-_Jabalpur, India_  
-_May 2024 - July 2024_  
-_South Africa_
-
-- Engineered a Version Update page (Project- NLSQ client- Google), detailing all versions and security patches.
-- Synchronized the filter feature on the Products Data page, resulting in about a 10% reduction in the user’s time to get the desired result (analytically). (Tech Stack: SvelteKit, TypeScript, Tailwind CSS)
-- Contributed to frontend documentation, resolved over 15+ issues, revamped existing architecture to implement 5+ innovative features, leading to improved user engagement metrics and enhancing overall functionality based on direct feedback from beta testers throughout development cycles.
-
-### Wodasoft (certificate)
-**Software Development Intern**  
-_Jan 2024 - Mar 2024_  
-_Belarus, US_
-
-- Developed and integrated a reports page with multiple reports on a single page functionality.
-- Revamped the sanctions page filter feature, leading to a 40% reduction in user search time and enhancing overall efficiency (analytically). (Tech Stack: HTML, CSS, TypeScript, React.js, Django, Postgres)
-- Successfully fixed over 30 issues and partnered in the development of more than 10 features during the internship and actively participated in code reviews and testing processes to maintain high-quality code.
-
-### Stolid Private Ltd (certificate)
-**Website Development Intern**  
-_Jun 2023 - Jul 2023_  
-_Jaipur, Rajasthan_
-
-- Spearheaded a team of 4 frontend developers and collaborated with fellow interns on the implementation of over 20+ features. (Tech Stack: React.js, Express.js, Node.js, MongoDB, Tailwind CSS)
-- Collaboratively built 2 websites, worked on search optimization, and RESTful APIs in Node.js.
-- Addressed critical software glitches through rigorous bug testing, resulting in a 15% decrease in technical issues and ensuring seamless project delivery for enhanced client satisfaction.
-
-## Projects
-
-### Sk-Homes
-| AWS, CI/CD, Leaflet.js, React.js, Node.js, Express.js, MongoDB
-_May 2024 - Jul 2024_
-
-- Created Sk-Homes, a real estate website with over 15+ features for listing and searching properties.
-- Tailored a customizable homepage showcasing 3+ offers and property pages highlighting 5+ essential features.
-- Implemented advanced search functionality with filters for amenities, sorting options, and 10+ other options.
-- GitHub: [Frontend](https://github.com/Satyam2192/Sk-Homes-Frontend) / [Backend](https://github.com/Satyam2192/Sk-Homes-Backend)
-
-### Hackers Path
-| Next.js, Framer Motion, Node.js, MongoDB, Vercel, Render
-_Jan 2024 - Feb 2024_
-
-- Developed a cybersecurity platform with 10+ modules and roadmap, achieving an 8/10 user satisfaction rate.
-- Implemented JWT authentication with 3+ access roles where Admin can do CRUD operations.
-- Tracked student progress and provided personalized feedback, empowering learners to monitor their achievements and identify areas for improvement, reducing workload by 30% (taken survey).
-- GitHub: [Frontend](https://github.com/Satyam2192/Hackers-Path-Frontend) / [Backend](https://github.com/Satyam2192/Hackers-Path-Backend)
-
-## Technical Skills
-
-- **Languages:** C/C++, TypeScript, JavaScript, HTML/CSS, Python, Bash, SQL
-- **Frameworks:** React.js, Next.js, Svelte, Node.js, Express.js, Django, Tailwind CSS, Bootstrap
-- **Databases and Tools:** MySQL, MongoDB, AWS, GIT, GitHub, VSCode, Postman, Linux, Figma
-- **CS Fundamentals:** OOPs Concept, Computer Network, Database Management System, Operating System
-
-## Achievements
-
-- Achieved a 1900+ rating on LeetCode as a Knight, ranking in the top 3.96% with a top position of 509.
-- Secured a global rank of 304 in Google Codejam farewell 2023 Round C.
-- Secured a global rank of 4122 in Codejam farewell 2023 Round A.
-- Acquired the AWS Cloud Technical Essentials certification endorsed by Amazon Web Services.
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/satyam-kumar-iiitj)
-- [Twitter](https://twitter.com/Satyam2192)
-- [Personal Website](https://sk-p.netlify.app)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
