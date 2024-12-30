@@ -76,6 +76,17 @@ Indian Institute of Information Technology, Jabalpur
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam2192&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2192&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Satyam2192&color=blue)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam2192&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2192&layout=compact&theme=radical)
+
+![Total Repositories](https://img.shields.io/github/repo-count/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
+![Total Commits](https://img.shields.io/github/commit-activity/y/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
+![Stars Earned](https://img.shields.io/github/stars/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
+![Total Contributions](https://img.shields.io/github/contributors/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
+
 ---
 
 ## 📝 Learn More
