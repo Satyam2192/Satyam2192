@@ -23,6 +23,17 @@
 
 ⚡ Fun fact: I think I am funny
 
+## Experience
+
+### Smollan Group
+![Smollan](https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Smollan_Logo.svg/1200px-Smollan_Logo.svg.png)
+
+### Wodasoft
+![Wodasoft](https://www.smartsheet.com/sites/default/files/IC-Logo/2021/WoDASoft.jpg)
+
+### Stolid Private Ltd
+![Stolid](https://stolid.in/images/stolid-logo.png)
+
 ## Skills
 
 ### Programming Languages
