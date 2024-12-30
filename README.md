@@ -24,15 +24,9 @@
 ⚡ Fun fact: I think I am funny
 
 ## Experience
-
-### Smollan Group
-![Smollan](https://upload.wikimedia.org/wikipedia/en/thumb/5/5c/Smollan_Logo.svg/1200px-Smollan_Logo.svg.png)
-
-### Wodasoft
-![Wodasoft](https://www.smartsheet.com/sites/default/files/IC-Logo/2021/WoDASoft.jpg)
-
-### Stolid Private Ltd
-![Stolid](https://stolid.in/images/stolid-logo.png)
+![Smollan](![image](https://github.com/user-attachments/assets/4b0afccd-f231-4235-91cf-d1efae6c06c1))
+![Wodasoft](![image](https://github.com/user-attachments/assets/573ceb89-9365-4cb0-a3bc-eb1183e288e6))
+![Stolid](![image](https://github.com/user-attachments/assets/4c2c903a-5b21-46dd-a9b8-9707c98c7218))
 
 ## Skills
 
@@ -72,17 +66,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## Social
-
-### GitHub
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Satyam2192)
-
-### LinkedIn
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-iiitj)
-
-### Twitter
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Satyam2192)
-
-### LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Satyam2192)
 
 ## Add-ons
@@ -93,8 +78,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2192&layout=compact&theme=radical)
 
-## Support
+<!-- ## Support
 
 If you like my work, you can buy me a coffee!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/yourusername) -->
