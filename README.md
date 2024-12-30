@@ -8,6 +8,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyam-kumar-iiitj) 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Satyam2192) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Satyam2192) 
+[![Mail](https://img.shields.io/badge/Mail-FFA116?style=for-the-badge&logo=mail&logoColor=black)](mailto:satyam21092@gmail.com) 
+
 [📫 satyam21092@gmail.com](mailto:satyam21092@gmail.com)
 
 ---
@@ -30,15 +32,15 @@ Indian Institute of Information Technology, Jabalpur
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam2192&show_icons=true&theme=radical)
+## 📈 GitHub Stats ![Profile Views](https://komarev.com/ghpvc/?username=Satyam2192&color=blue) ![Stars Earned](https://img.shields.io/github/stars/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Satyam2192&show_icons=true&theme=radical)-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Satyam2192&theme=radical&hide_border=false)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satyam2192&layout=compact&theme=radical)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Satyam2192&color=blue)
+
 ![Total Repositories](https://img.shields.io/github/repo-count/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
 ![Total Commits](https://img.shields.io/github/commit-activity/y/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
-![Stars Earned](https://img.shields.io/github/stars/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
 ![Total Contributions](https://img.shields.io/github/contributors/Satyam2192?style=for-the-badge&logo=github&logoColor=white)
 
 ---
