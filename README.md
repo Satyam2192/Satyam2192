@@ -12,7 +12,7 @@
 ## 🎓 Education
 **Bachelor of Technology**  
 Indian Institute of Information Technology, Jabalpur  
-*Expected Graduation: May 2025*
+*Graduation: May 2025*
 
 ## 💼 Experience
 <img src="https://github.com/user-attachments/assets/4b0afccd-f231-4235-91cf-d1efae6c06c1" alt="Smollan" width="100" height="100">
